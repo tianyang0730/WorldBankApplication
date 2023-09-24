@@ -1,0 +1,1 @@
+An application designed to access and fetch demographic and various data from the World Bank's data repository for one or multiple chosen countries. This system can then perform various types of data analysis on the retrieved information and present it using suitable visualizations like bar charts, line graphs, scatter plots, pie charts, and generate reports as needed.
